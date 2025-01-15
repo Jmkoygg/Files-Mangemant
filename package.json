@@ -1,0 +1,16 @@
+{
+  "name": "file-mangemant",
+  "version": "1.0.0",
+  "description": "file mangemant in node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "João Soares",
+  "license": "ISC",
+  "dependencies": {
+    "dates-difference-calculator": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
