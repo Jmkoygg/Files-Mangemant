@@ -10,7 +10,6 @@
   "author": "João Soares",
   "license": "ISC",
   "dependencies": {
-    "dates-difference-calculator": "^1.0.0",
     "readline-sync": "^1.4.10"
   }
 }
